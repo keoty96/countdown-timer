@@ -38,6 +38,12 @@ footer {
 /* footer section */
 .icon {
   padding: 20px;
+  fill: hsl(237, 18%, 59%);
+  cursor: pointer;
+}
+
+.icon:hover {
+  fill: hsl(345, 95%, 68%);
 }
 
 .attribution {

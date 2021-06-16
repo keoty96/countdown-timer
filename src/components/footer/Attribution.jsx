@@ -18,7 +18,7 @@ function Attribution() {
           target="_blank"
           rel="noreferrer"
         >
-          Your Name Here
+          Katherine Osorio
         </a>
         .
       </p>
