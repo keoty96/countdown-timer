@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop-screenshoot](./src/components/images/countdown-timer-desktop.jpg)
-![mobile-screenshoot](./src/components/images/countdown-timer-mobile.jpg)
+![desktop-screenshoot](./src/images/countdown-timer-desktop.jpg)
+![mobile-screenshoot](./src/images/countdown-timer-mobile.jpg)
 
 ### Links
 
